@@ -1,16 +1,33 @@
-# statefull
+# Practica 
+Numero de Practica:  07.
 
-A new Flutter project.
+Nombre de Practica: Statelful_Flutter_MyButton
 
-## Getting Started
+# Datos Académicos 
+Instituto: Universidad Tecnológica de Xicotepec de Juárez
 
-This project is a starting point for a Flutter application.
+Carrera: Ingeniería Desarrollo y Gestión de Software Área Desarrollo de Software en Multiplataforma.
 
-A few resources to get you started if this is your first Flutter project:
+Materia: Desarrollo Móvil Integral.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Docente: M.T.I Marco Antonio Ramírez Hernández.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Alumno/Author: Enrique Santiago Peralta.
+
+# Objetivo de Practica
+Comprendiendo que los widgets Stateful, es implementado por sus clases StatefulWidget y subclase State,
+utilizando un stateful widget hijos: IconButton y un Text, al ser presionado el IconButton el Text muestra
+dicha interacción que cambia con cada clic.
+
+# Herramientas:
+•	Visual Studio Code 
+•	Extensiones de Visual Studio Code: 
+o	Dart
+o	Flutter 
+o	Awesome Flutter Snippets
+o	Flutter Widget Snippets
+•	Flutter SDK
+•	DevTools
+
+# Imágenes/Resultado
+
