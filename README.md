@@ -23,10 +23,10 @@ dicha interacción que cambia con cada clic.
 •	Visual Studio Code 
 
 •	Extensiones de Visual Studio Code: 
-o	Dart
-o	Flutter 
-o	Awesome Flutter Snippets
-o	Flutter Widget Snippets
+*	Dart
+*	Flutter 
+*	Awesome Flutter Snippets
+*	Flutter Widget Snippets
 
 •	Flutter SDK
 
