@@ -1,3 +1,6 @@
+-![LOGO UTXJ 2019](https://user-images.githubusercontent.com/79369079/193987921-fe99edb1-fab7-4942-a68b-79d5dfb22562.png)
+
+
 # Practica 
 Numero de Practica:  07.
 
