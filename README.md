@@ -1,4 +1,4 @@
-<p align="left"><img src="https://user-images.githubusercontent.com/79369079/193988245-b785722d-7d24-45b4-afbb-17df8d000c32.png" width="25%"/> <img src="https://user-images.githubusercontent.com/79369079/193988280-3675a479-f021-4a10-8051-63e70b42eceb.png" width="25%"/>
+<p align="left"><img src="https://user-images.githubusercontent.com/79369079/193988245-b785722d-7d24-45b4-afbb-17df8d000c32.png" width="25%"/> <p align="right"><img src="https://user-images.githubusercontent.com/79369079/193988280-3675a479-f021-4a10-8051-63e70b42eceb.png" width="40%"/>
 
 # Practica 
 Numero de Practica:  07.
