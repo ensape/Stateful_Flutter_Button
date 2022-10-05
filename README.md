@@ -21,12 +21,15 @@ dicha interacción que cambia con cada clic.
 
 # Herramientas:
 •	Visual Studio Code 
+
 •	Extensiones de Visual Studio Code: 
 o	Dart
 o	Flutter 
 o	Awesome Flutter Snippets
 o	Flutter Widget Snippets
+
 •	Flutter SDK
+
 •	DevTools
 
 # Imágenes/Resultado
